@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ivord2810
-- 👀 I’m interested in Machine Learning, Artificial Intelligence and Smart Device Automation
-- 🌱 I’m currently learning Python, HTMl
+- 👋 Hi, I’m Innocent Kwaku Vordzorgbe
+- 👀 I’m interested in Web development, Machine Learning and Artificial Intelligence
+- 🌱 I’m currently learning Python, HTML
 - 💞️ I’m looking to collaborate on ML and AI projects
 - 📫 Email: ivord2810@gmail.comm
 
